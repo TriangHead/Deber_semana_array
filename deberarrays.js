@@ -2,7 +2,7 @@
 
 let semana = ['Sunday', 'Tuesday', 'Wednesday', 'Thursday',  'Saturday' ]; 
    
-   semana.shift('sunday'); 
+   semana.shift('Sunday'); 
    semana.unshift('Monday'); 
    semana.push('Sunday'); 
    semana.splice(4, 0, 'Friday'); 
